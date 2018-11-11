@@ -1,7 +1,7 @@
 About
 -----
 
-Tiny android wrapper app for [mpw-web](https://github.com/voidpp/mpv-web).
+Tiny android wrapper app for [mpv-web](https://github.com/voidpp/mpv-web).
 
 Scheme
 ------
